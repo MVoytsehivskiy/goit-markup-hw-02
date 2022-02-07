@@ -37,14 +37,22 @@ body {
 .logo-studio {
       color: #000000;
       }
-.site-nav link {
+.site-nav a {
       color: #212121;
       text-decoration: none;
 }
-.site-nav link:hover,
-.site-nav link:focus {
-      color: #2196F3
-;
+.site-nav a:hover,
+.site-nav a:focus {
+      color: #2196F3;
+}
+
+.contact-header a {
+      color: #757575;
+      text-decoration: none;
+}
+.contact-header a:hover,
+.contact-header a:focus {
+      color: #2196F3;
 }
 
 font-family: 'Raleway', sans-serif;
