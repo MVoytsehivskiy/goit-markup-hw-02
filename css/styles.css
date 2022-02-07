@@ -40,8 +40,11 @@ body {
 .site-nav a {
       color: #212121;
       text-decoration: none;
+     }
+.site-nav li {
       list-style-type: none;
 }
+      
 .site-nav a:hover,
 .site-nav a:focus {
       color: #2196F3;
@@ -50,7 +53,10 @@ body {
 .contact-header a {
       color: #757575;
       text-decoration: none;
+}
+.contact-header li {
       list-style-type: none;
+
 }
 .contact-header a:hover,
 .contact-header a:focus {
