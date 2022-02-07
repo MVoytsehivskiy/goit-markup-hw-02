@@ -37,11 +37,14 @@ body {
 .logo-studio {
       color: #000000;
       }
-/* колір Studio #000000 */
-/* колір основного тексту #212121 */
-/* вторинний колір тексту #757575 */
-/* акцент #2196F3*/
-/* колір секції'наша команда' #E5E5E5 */
+.site-nav. link {
+      color: #212121;
+}
+.site-nav. link:hover,
+.site-nav. link:focus {
+      color: #2196F3
+;
+}
 
 font-family: 'Raleway', sans-serif;
 >>>>>>> 2842f5d276404a9807354c9db4264f817cd8fc32
