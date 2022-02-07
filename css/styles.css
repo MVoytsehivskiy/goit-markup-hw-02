@@ -40,6 +40,7 @@ body {
 .site-nav a {
       color: #212121;
       text-decoration: none;
+      list-style-type: none;
 }
 .site-nav a:hover,
 .site-nav a:focus {
@@ -49,6 +50,7 @@ body {
 .contact-header a {
       color: #757575;
       text-decoration: none;
+      list-style-type: none;
 }
 .contact-header a:hover,
 .contact-header a:focus {
