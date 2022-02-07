@@ -37,11 +37,12 @@ body {
 .logo-studio {
       color: #000000;
       }
-.site-nav. link {
+.site-nav link {
       color: #212121;
+      text-decoration: none;
 }
-.site-nav. link:hover,
-.site-nav. link:focus {
+.site-nav link:hover,
+.site-nav link:focus {
       color: #2196F3
 ;
 }
