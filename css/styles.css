@@ -96,20 +96,20 @@ body {
 }
 /* whatwedo*/
 .whatwedo-list {
-     
+     list-style-type: none;
 }
 .whatwedo-item {
-      list-style-type: none;
+      
 }
 .whatwedo-title {
       color: #212121;
       font-family: Roboto;
       font-weight: 700;
-      list-style-type: none;
+     
 }
 /*ourteam*/
 .ourteam-item {
-      list-style-type: none;
+      
 }
 .ourteam-list {
      
