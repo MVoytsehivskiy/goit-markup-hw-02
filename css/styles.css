@@ -87,6 +87,9 @@ body {
       font-weight: 700;
       text-decoration: none;
 }
+.advantage-item {
+      text-decoration: none;
+}
 .advatage-text {
       color: #757575
       font-family: Roboto;
