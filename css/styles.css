@@ -122,7 +122,16 @@ body {
 .logo-studio {
       color: #FFFFFF;
 }
-
+.address-item {
+      color: #FFFFFF;
+      font-family: Roboto;
+      font-weight: 400;
+}
+.address-ad {
+      color: #FFFFFF 60%;
+      font-family: Roboto;
+      font-weight: 400;
+}
 .site-address a {
       text-decoration: none;
 }
