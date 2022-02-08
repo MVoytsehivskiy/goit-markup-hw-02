@@ -95,12 +95,18 @@ body {
       font-weight: 400;
 }
 /* whatwedo*/
+.whatwedo-list {
+       list-style-type: none;
+}
 .whatwedo-title {
       color: #212121;
       font-family: Roboto;
       font-weight: 700;
 }
 /*ourteam*/
+.ourteam-list {
+      list-style-type: none;
+}
 .ourteam-title {
       color: #212121;
       font-family: Roboto;
