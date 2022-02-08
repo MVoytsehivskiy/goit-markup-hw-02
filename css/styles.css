@@ -119,7 +119,9 @@ body {
 .page-footer {
       background-color: #2F303A;
 }
-
+.logo-studio {
+      color: #FFFFFF;
+}
 
 .site-address a {
       text-decoration: none;
