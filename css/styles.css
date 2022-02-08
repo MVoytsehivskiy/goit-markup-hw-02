@@ -90,8 +90,14 @@ body {
       color: #757575
       font-family: Roboto;
       font-weight: 400;
-;
 }
+/* whatwedo*/
+.whatwedo-title {
+      color: #212121;
+      font-family: Roboto;
+      font-weight: 700;
+}
+
 /* footer*/
 .page-footer {
       background-color: #2F303A;
