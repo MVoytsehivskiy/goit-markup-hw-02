@@ -97,6 +97,23 @@ body {
       font-family: Roboto;
       font-weight: 700;
 }
+/*ourteam*/
+.ourteam-title {
+      color: #212121;
+      font-family: Roboto;
+      font-weight: 700;
+}
+.name {
+      color: #212121;
+      font-family: Roboto;
+      font-weight: 500;
+}
+.position {
+      color: #757575;
+      font-family: Roboto;
+      font-weight: 400;
+
+}
 
 /* footer*/
 .page-footer {
