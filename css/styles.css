@@ -105,6 +105,7 @@ body {
       color: #212121;
       font-family: Roboto;
       font-weight: 700;
+      list-style-type: none;
 }
 /*ourteam*/
 .ourteam-item {
