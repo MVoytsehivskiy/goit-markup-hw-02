@@ -63,6 +63,24 @@ body {
       color: #2196F3;
 }
 
+.banner {
+      background-color: #2F303A;
+}
+.banner-title {
+      color: #FFFFFF;
+      font-family: Roboto;
+      font-weight: 900;
+      text-align: center;
+      text-transform: uppercase;
+}
+.banner-button {
+      position: relative; left: 47%;
+      background-color: #2196F3;
+      color: #FFFFFF;
+      border-radius: 5px;
+}
+
+
 font-family: 'Raleway', sans-serif;
 >>>>>>> 2842f5d276404a9807354c9db4264f817cd8fc32
 font-family: 'Roboto', sans-serif;
