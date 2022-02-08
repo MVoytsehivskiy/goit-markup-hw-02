@@ -80,7 +80,7 @@ body {
       border-radius: 5px;
 }
 
-.site-address li {
+.site-address a {
       text-decoration: none;
 }
 
