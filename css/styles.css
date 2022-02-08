@@ -81,14 +81,13 @@ body {
       border-radius: 5px;
 }
 /* advantages*/
+.address-item {
+      list-style-type: none;
+}
 .advantage-title {
       color: #212121;
       font-family: Roboto;
       font-weight: 700;
-      text-decoration: none;
-}
-.advantasge-list {
-      text-decoration: none;
 }
 .advatage-text {
       color: #757575
