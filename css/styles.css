@@ -96,7 +96,10 @@ body {
 }
 /* whatwedo*/
 .whatwedo-list {
-       list-style-type: none;
+     
+}
+.whatwedo-item {
+      list-style-type: none;
 }
 .whatwedo-title {
       color: #212121;
@@ -104,8 +107,11 @@ body {
       font-weight: 700;
 }
 /*ourteam*/
-.ourteam-list {
+.ourteam-item {
       list-style-type: none;
+}
+.ourteam-list {
+     
 }
 .ourteam-title {
       color: #212121;
