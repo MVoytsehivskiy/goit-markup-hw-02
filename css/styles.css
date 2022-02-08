@@ -155,8 +155,8 @@ body {
       letter-spacing: 0.03em;
       text-decoration: none;
 }
-.address .address-ad:hover,
-.address .address-ad:focus {
+.address-ad a:hover,
+.address-ad a:focus {
       color: #2196F3;
 }
 
