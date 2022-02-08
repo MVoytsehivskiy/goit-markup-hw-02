@@ -22,6 +22,7 @@ body {
 
 font-family: 'Raleway', sans-serif;
 =======
+/* header*/
 body {
     background-color: #E5E5E5;
 }
@@ -62,7 +63,7 @@ body {
 .contact-header a:focus {
       color: #2196F3;
 }
-
+/* baner*/
 .banner {
       background-color: #2F303A;
 }
@@ -79,6 +80,19 @@ body {
       color: #FFFFFF;
       border-radius: 5px;
 }
+/* advantages*/
+.advantage-title {
+      color: #212121;
+      font-family: Roboto;
+      font-weight: 700;
+}
+.advatage-text {
+      color: #757575
+      font-family: Roboto;
+      font-weight: 400;
+;
+}
+/* footer*/
 .page-footer {
       background-color: #2F303A;
 }
