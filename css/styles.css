@@ -142,7 +142,7 @@ body {
 }
 .address .link:hover,
 .address .link:focus{
-      color: #2196F3;
+      color: var(--accent-color);
 }
 
 font-family: 'Raleway', sans-serif;
