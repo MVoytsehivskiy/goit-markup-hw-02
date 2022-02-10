@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+ 
 body {
     background-color: #E5E5E5;
 }
@@ -21,7 +21,7 @@ body {
 /* колір секції'наша команда' #E5E5E5 */
 
 font-family: 'Raleway', sans-serif;
-=======
+
 /* header*/
 body {
     background-color: #E5E5E5;
@@ -98,19 +98,14 @@ body {
 .whatwedo-list {
      list-style-type: none;
 }
-.whatwedo-item {
-      
-}
+
 .whatwedo-title {
       color: #212121;
       font-family: Roboto;
       font-weight: 700;
      
 }
-/*ourteam*/
-.ourteam-item {
-      
-}
+
 .ourteam-list {
      list-style-type: none;
 }
@@ -161,5 +156,5 @@ body {
 }
 
 font-family: 'Raleway', sans-serif;
->>>>>>> 2842f5d276404a9807354c9db4264f817cd8fc32
+
 font-family: 'Roboto', sans-serif;
