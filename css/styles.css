@@ -1,9 +1,10 @@
  
 body {
     background-color: #E5E5E5;
+    color: #212121;
 }
 .page-header {
-      background-color: #E5E5E5;
+      background-color: #FFFFFF;
 }
 .logo-web {
       color: #2196F3;
@@ -14,12 +15,6 @@ body {
 .logo-studio {
       color: #000000;
       }
-/* колір Studio #000000 */
-/* колір основного тексту #212121 */
-/* вторинний колір тексту #757575 */
-/* акцент #2196F3*/
-/* колір секції'наша команда' #E5E5E5 */
-
 font-family: 'Raleway', sans-serif;
 
 /* header*/
@@ -27,7 +22,7 @@ body {
     background-color: #E5E5E5;
 }
 .page-header {
-      background-color: #E5E5E5;
+      background-color: #FFFFFF;
 }
 .logo-web {
       color: #2196F3;
@@ -35,8 +30,9 @@ body {
       font-weight: 700;
       text-decoration: none;
 }
-.logo-studio {
-      color: #000000;
+.logo-st {
+      color: #000000
+;
       }
 .site-nav a {
       color: #212121;
@@ -71,14 +67,11 @@ body {
       color: #FFFFFF;
       font-family: Roboto;
       font-weight: 900;
-      text-align: center;
       text-transform: uppercase;
 }
 .banner-button {
-      position: relative; left: 47%;
       background-color: #2196F3;
       color: #FFFFFF;
-      border-radius: 5px;
 }
 /* advantages*/
 .advantasge-list {
@@ -158,3 +151,14 @@ body {
 font-family: 'Raleway', sans-serif;
 
 font-family: 'Roboto', sans-serif;
+
+
+/* Portfolio */
+.ourportfolio-list  li {
+     list-style-type: none;
+}
+.ourportfolio-button:hover,
+.ourportfolio-button:focus {
+      background-color: #2196F3;
+      color: #FFFFFF;
+}
