@@ -142,7 +142,7 @@ li {
 
 
 /* Portfolio */
-h1 {
+.ourportfolio-title {
       display: none;
 }
 .ourportfolio-list  li {
